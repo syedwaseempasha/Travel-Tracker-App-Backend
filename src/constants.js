@@ -1,1 +1,1 @@
-export const DB_NAME = "KHANA-E-KABA"
+export const DB_NAME = "KHANA-E-KABA" 

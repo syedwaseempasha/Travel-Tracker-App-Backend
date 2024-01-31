@@ -13,7 +13,7 @@ dotenv.config({
 
 app.use(express.json());
 app.use(cookiParser());
-app.use(cors());
+app.use(cors()); 
 app.use(router);
 
 
